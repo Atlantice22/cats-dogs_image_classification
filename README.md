@@ -1,5 +1,10 @@
-# cats-dogs_image_classification
 
+
+<picture>
+ <img align="left" width="200" height="120" src="https://static.vecteezy.com/system/resources/thumbnails/005/713/601/small_2x/set-of-funny-cats-cute-hand-drawn-doodle-kittens-pet-animal-illustration-free-vector.jpg">
+</picture>
+
+# cats-dogs_image_classification
 (work in progress)
 
 ## General info
