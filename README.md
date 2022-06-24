@@ -26,7 +26,6 @@ The project is written in Python
 - time
 
 ## Setup
-(project is not finished yet)
-https://colab.research.google.com/drive/1pp2VlPbtWs530YIkLC1DpPN2NXpWwIAD#scrollTo=xf1WMmvTvSFn
+(project is not finished yet) https://colab.research.google.com/drive/1pp2VlPbtWs530YIkLC1DpPN2NXpWwIAD#scrollTo=xf1WMmvTvSFn
 In order to run the porgram please paste the path to the image and run the code (Shift + Enter) in the first cell of Google Colab.
 Make sure the project is saved on your Google Drive in "drive/My Drive/BIAI_Project"
